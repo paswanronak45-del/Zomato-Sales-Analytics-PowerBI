@@ -37,13 +37,14 @@ This project analyzes Zomato sales data using SQL and Power BI to uncover busine
 - Customer Rating Analysis
 - Maximum Discount
 - Highest Order Value
----
+## 📊 Dashboard Preview
+![Zomato Sales Analytics Dashboard](https://github.com/user-attachments/assets/33831a57-b81d-4777-a582-8436e086f9c2)
 ## 📁 Project Structure
 Dashboard/
 Dataset/
 SQL/
 Images/
----
-
+## 👤 Author
+Ronak Paswan---
 ## 👤 Author
 Your Name
