@@ -38,7 +38,8 @@ This project analyzes Zomato sales data using SQL and Power BI to uncover busine
 - Maximum Discount
 - Highest Order Value
 ## 📊 Dashboard Preview
-![Zomato Sales Analytics Dashboard](https://github.com/user-attachments/assets/33831a57-b81d-4777-a582-8436e086f9c2)
+![Zomato Sales Analytics Dashboard](https://github.com/user-attachments/assets/33831a57-b81d-4777-a582-8436e086f9c2) 
+https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=daa592ca-de7b-4c54-8836-91a6690fe197&pbi_source=mobile_android&groupObjectId=08c4a32c-7351-4176-a905-5e7d16b095e1&reportObjectId=26b9b4d9-20e6-41ec-9ad5-50910a3a5b0b&reportPage=18301d36a5dd54b90159&bookmarkGuid=a9ba7389-836e-4708-ba1f-b1933518613f&fullScreen=0
 ## 📁 Project Structure
 Dashboard/
 Dataset/
